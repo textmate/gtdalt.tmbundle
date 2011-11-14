@@ -7,10 +7,6 @@
 		<string>gtd</string>
 		<string>gtdlog</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>^\s*project</string>
-	<key>foldingStopMarker</key>
-	<string>^\s*end\s*$</string>
 	<key>keyEquivalent</key>
 	<string>^~G</string>
 	<key>name</key>
