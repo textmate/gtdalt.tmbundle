@@ -5,7 +5,7 @@ def html_actions_for_context(context)
   b = <<HTML
 <html>
   <head>
-    <link rel="stylesheet" href="tm-file://#{ENV['TM_SUPPORT_PATH']}/css/default.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+    <link rel="stylesheet" href="file://#{ENV['TM_SUPPORT_PATH']}/css/default.css" type="text/css" media="screen" title="no title" charset="utf-8" />
   </head>
   <body>
 HTML
