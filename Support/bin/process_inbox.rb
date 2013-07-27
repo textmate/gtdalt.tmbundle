@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
 $:<<ENV['TM_SUPPORT_PATH']
 $:<<ENV['TM_BUNDLE_SUPPORT']
 require 'lib/ui.rb'
