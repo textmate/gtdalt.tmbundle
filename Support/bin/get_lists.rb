@@ -1,4 +1,4 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
+#!/usr/bin/env ruby18
 # ENV['TM_GTD_CONTEXT'] = "email home office online writing errand reading someday programming"
 # ENV['TM_GTD_DIRECTORY'] = "/Users/haris/Documents/MyGTD"
 # ENV['TM_BUNDLE_SUPPORT'] = '/Users/haris/Library/Application Support/TextMate/Bundles/GTDAlt.tmbundle/Support'
